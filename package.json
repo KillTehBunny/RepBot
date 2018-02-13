@@ -1,0 +1,19 @@
+{
+  "name": "RepBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "enmap": "^0.4.2",
+    "mysql": "^2.15.0",
+    "sqlite": "^2.9.1",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fuccboi Pieter",
+  "license": "MIT"
+}
